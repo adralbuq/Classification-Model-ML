@@ -1,2 +1,2 @@
 # Classification-Model-ML
-Modelo Classificador Machine Learning
+Modelo de Classificação em Machine Learning
